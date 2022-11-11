@@ -1,4 +1,5 @@
 # Online-Bank-GUI-tkinter-mysql (Files are in master branch)
+(also do ignore the self appreciatory comments in the python code)
 
 Old project, uses python and mysql integration using the connector
 Simulates a simple BANK GUI , where a person can deposit and withdraw money from his bank account 
