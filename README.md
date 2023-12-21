@@ -1,14 +1,8 @@
-# Online-Bank-GUI-tkinter-mysql (Files are in master branch)
-(also do ignore the self appreciatory comments in the python code)
+Bank-Interface-with-Python-Tkinter-and-MySQL (Check the master branch for files)
+(disregard any self-praising remarks in the Python code)
 
-Old project, uses python and mysql integration using the connector
-Simulates a simple BANK GUI , where a person can deposit and withdraw money from his bank account 
+This project seamlessly integrates Python with MySQL to create an interactive GUI for a simulated online bank. Users can conveniently deposit and withdraw funds from their bank accounts, featuring fixed interest rates that contribute to the account's growth upon login.
 
-if account doesnt exist cam be created,
-loans can be taken and returned with interest
+The application provides options to establish a new account if one doesn't exist, facilitates the process of taking and repaying loans with interest, and supports the application and usage of credit cards by users. This encompasses the full scope of the project's functionalities.
 
-credit cards application also exists
-and that is the end of the functionality of my project
-
-will be modified later to be usable by any person forking this repository
-for now it requires some changes in sql to operate
+The foundation of the project lies in the collaboration between Python and MySQL connectors. It not only caters to the essential banking operations but also introduces additional features such as loan management, interest calculation, and credit card utilization. Feel free to explore the master branch for the complete set of files.
