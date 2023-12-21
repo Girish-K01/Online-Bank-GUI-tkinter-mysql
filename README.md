@@ -1,4 +1,4 @@
-##Bank-Interface-with-Python-Tkinter-and-MySQL (Check the master branch for files)
+## Bank-Interface-with-Python-Tkinter-and-MySQL (Check the master branch for files)
 (disregard any self-praising remarks in the Python code)
 
 This project seamlessly integrates Python with MySQL to create an interactive GUI for a simulated online bank. Users can conveniently deposit and withdraw funds from their bank accounts, featuring fixed interest rates that contribute to the account's growth upon login.
